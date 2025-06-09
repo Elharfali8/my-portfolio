@@ -8,7 +8,7 @@ import { Github, Linkedin } from 'lucide-react'
 
 const ContactMe = () => {
   return (
-    <section id='contact-me' className='py-10 lg:py-16 bg-muted dark:bg-[#15223d]'>
+    <section id='contact-me' className='py-10 lg:py-16 '>
         <SectionTitle title='contact me' />
         <div className="container main-container grid place-items-center">
             
